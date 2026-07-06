@@ -1,0 +1,68 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated files
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+crashlytics-build.properties
+
+# Unity package/cache artifacts
+[Ll]ibrary/[Pp]ackage[Cc]ache/
+[Ll]ibrary/[Aa]rtifacts/
+[Ll]ibrary/[Bb]ee/
+
+# IDE/editor local state
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*.orig
+
+# Package managers and downloaded modules
+node_modules/
+bower_components/
+jspm_packages/
+.npm/
+.yarn/
+.pnp.*
+.gradle/
+Pods/
+vendor/bundle/
+
+# OS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+Desktop.ini
+
+# Logs and diagnostics
+*.log
+*.stackdump
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
